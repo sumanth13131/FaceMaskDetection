@@ -1,4 +1,4 @@
-***high lights of this submission :
+*** high lights of this submission :
 	1.accuracy
 	2.speed detection
 	3.multipe face detection at a time
@@ -10,13 +10,13 @@ This project files contains:(//Testing//)
 ==============================================================================================================
                                                                                                                Face Mask Detection
 ==============================================================================================================
-###Please maximize this window to read ..!###  If any problem with this application please mail to me === sumanth13131@gmail.com, 9908713677 (or) 6300485079 
+### Please maximize this window to read ..!###  If any problem with this application please mail to me === sumanth13131@gmail.com, 9908713677 (or) 6300485079 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In this project iam using Anaconda.
 	python version 3.7.7
-==============================================================================================================
-==============================================================================================================
-*Before going to this project create the anaconda environment
+
+
+* Before going to this project create the anaconda environment
 Method 1:
 
 step1:         "conda create -n <env_name> python=3.7"
@@ -39,8 +39,8 @@ step1:	"conda activate <env_name>"
 -----navigate to working dir (requirements.txt)--------
 
 step2:	"pip install --upgrade requirements.txt"
-==============================================================================================================
-==============================================================================================================
+
+
 Testing:(/Testing/)
 Full deployment (server) :
 *If any problem with this application try with detection.py as shown in below of this (sample testing)
@@ -61,10 +61,6 @@ Sample testing :
 
 	4.If any problem with mobules like numpy....try to install with pip commands("pip uninstall numpy"---> "pip install numpy").
 
-------------------------------------------------------------------------------------Thank q--------------------------------------------------------------------------------------------
-======================================                                                                                    =====================================
-=================================================                               ================================================
-=======================================================    =====================================================
 
 
 
