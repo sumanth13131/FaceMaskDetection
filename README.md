@@ -39,22 +39,22 @@ Face Mask Detection
 Testing:(/Testing/)
 Full deployment (server) :
 If any problem with this application try with detection.py as shown in below of this (sample testing)
-please close other windows expect Browser and anaconda prompt to taste the application.
-	- 1.open Anaconda powershell prompt.
-	- 2.Navigate to Testing dir.
-	- 3.Type  "python app.py".
-	- 4.Then open "http://localhost:5000/" 
-	- 5.If any buffering while starting... hit the enter button on anaconda powershell prompt.
-	- 6.The below file works for only webcam which is inbuilt of  system.(if want to change the camera try to open the camera.py with Editor and change the "cv2.VideoCapture(1)"  at 21th line.
-- Sample testing :
+please close other windows expect Browser and anaconda prompt to taste the application.</br>
+- 1.open Anaconda powershell prompt.
+- 2.Navigate to Testing dir.
+- 3.Type  "python app.py".
+- 4.Then open "http://localhost:5000/" 
+- 5.If any buffering while starting... hit the enter button on anaconda powershell prompt.
+- 6.The below file works for only webcam which is inbuilt of  system.(if want to change the camera try to open the camera.py with Editor and change the "cv2.VideoCapture(1)"  at 21th line.</br>
+### Sample testing :
 open a console of anaconda power shell prompt.
-	1.The below file works for only webcam which is inbuilt of  system.(if want to change the camera try to open the detection.py with Editor and change the 		"cv2.VideoCapture(1)" at 19th line. 
+- 1.The below file works for only webcam which is inbuilt of  system.(if want to change the camera try to open the detection.py with Editor and change the "cv2.VideoCapture(1)" at 19th line. 
 
-	2.Run the detection file with command (python detection.py).
+- 2.Run the detection file with command (python detection.py).
 
-	3.The above file has no inter dependencies .(only with env) .
+- 3.The above file has no inter dependencies .(only with env) .
 
-	4.If any problem with mobules like numpy....try to install with pip commands("pip uninstall numpy"---> "pip install numpy").
+- 4.If any problem with mobules like numpy....try to install with pip commands("pip uninstall numpy"---> "pip install numpy").
 
 
 
