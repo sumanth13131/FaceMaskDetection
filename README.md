@@ -1,4 +1,4 @@
-## high lights of this submission :
+## High lights :
 	1.accuracy
 	2.speed detection
 	3.multipe face detection at a time
